@@ -12,8 +12,4 @@ namespace web_api
             return new NewPlayer(player);
         }
     }
-
-    // public static class NewPlayerExtensions {
-    //     public static
-    // }
 }
